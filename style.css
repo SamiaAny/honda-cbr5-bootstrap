@@ -29,6 +29,9 @@ h1 {
 }
 
 /* bike section styles */
+.bike-container {
+    margin-bottom: 100px;
+}
 .gray-bike {
     filter: grayscale(1);
 }
