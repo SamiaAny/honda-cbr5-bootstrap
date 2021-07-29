@@ -1,0 +1,61 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+/* common styles */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 54px;
+}
+
+/* header section styles */
+.honda-cbr-bg {
+    background: #264653;
+}
+
+.login-btn {
+    background-color: #E76F51;
+    color: #FFFFFF;
+    padding: 10px 24px;
+}
+
+.honda-cbr-btn {
+    background-color: #E76F51;
+    color: #FFFFFF;
+    padding: 10px 46px;
+}
+
+/* bike section styles */
+.gray-bike {
+    filter: grayscale(1);
+}
+
+/* review section styles */
+.text-clr {
+    color: #E76F51;
+}
+
+.fill-clr {
+    color: #E77C40;;
+}
+
+/* FAQ section style */
+.FAQ-border-bg {
+    border: 1px solid #D5E5FB;
+}
+
+.FAQ-accordian-btn:not(.collapsed) {
+    background-color: #FFFFFF;
+    color: black;
+}
+
+/* helmet accessories section styles */
+.buy-btn {
+    border: 2px solid #E76F51;
+    background-color: #FFFFFF;
+    color: #E76F51;
+    padding: 8px 18px;
+}
