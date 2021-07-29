@@ -58,4 +58,10 @@ h1 {
     background-color: #FFFFFF;
     color: #E76F51;
     padding: 8px 18px;
+    transition: all 1s ease-in-out;
+}
+
+.buy-btn:hover {
+    background-color: #E76F51;
+    color: #FFFFFF;
 }
